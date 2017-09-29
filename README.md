@@ -7,4 +7,4 @@ environment variable.
 
 To build the image, run the following command:
 
-`docker build -t mcrouter:36.0.0 .`
+`docker build -t mcrouter:0.36.0 .`
