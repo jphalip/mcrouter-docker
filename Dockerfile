@@ -1,6 +1,6 @@
 FROM            ubuntu:14.04
 
-MAINTAINER      mcrouter <mcrouter@fb.com>
+MAINTAINER      Julien Phalip <jphalip@gmail.com>
 
 ENV             MCROUTER_BRANCH         release-36-0
 ENV             MCROUTER_DIR            /usr/local/mcrouter
